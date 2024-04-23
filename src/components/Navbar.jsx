@@ -20,7 +20,7 @@ const Navbar = () => {
         </Link>
         <ul className='list-none hidden sm:flex flex-row gap-10'>
           <li>
-            <a href="">About</a>
+            <a href="#about">About</a>
           </li>
           <li>
             <a href="">Work</a>
